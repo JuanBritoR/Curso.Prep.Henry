@@ -12,3 +12,4 @@ If es una declaracion condicional que solo se ejecuta cuando la sentencia es
 verdadera dentro del IF.
 
 Valores booleanos son los valores de verdadero o Falso.
+
