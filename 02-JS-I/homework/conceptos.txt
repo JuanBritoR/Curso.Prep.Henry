@@ -1,0 +1,14 @@
+Variables son elementos de un lenguaje de programacion que nos permite
+almacenar un valor para luego poder ser usado mas adelante.
+
+Strings es un tipo de datos que permite manejar cadenas de caracteres.
+
+Funciones son codigos creados para ejecutar una misma rutina cada vez
+que sea invocada, puede contener o no argumentos para su ejecucion los
+cuales van dentro de los paretesis, asi como tambien puede o no devolver
+un valor con return.
+
+If es una declaracion condicional que solo se ejecuta cuando la sentencia es
+verdadera dentro del IF.
+
+Valores booleanos son los valores de verdadero o Falso.
