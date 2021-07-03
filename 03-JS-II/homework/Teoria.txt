@@ -1,0 +1,12 @@
+For es una instruccion que permite al lenguaje de programacion repetir
+un bloque de codigo n cantidad de veces, mientras sea verdadera la
+condicion de validacion, tiene tres argumentos 
+for("varible a declarar"; "condicion que debe ser verdadera para ejecutar";"contador de la variable declarada +1)
+
+Operadores Logicos
+AND && se utiliza para validar dos valores booleanos, para que sea true
+ambos valores deben ser true, si un valor es false el resultado sera false
+OR || se utiliza para validar dos valores booleanos, para que sea false
+ambos valores deben ser false, si un valor es true el resultado sera true
+Not ! Se utiliza para cambiar de forma contraria un valor o validacion, 
+si el valor es true y colocamos !true, el resustado sera false.
