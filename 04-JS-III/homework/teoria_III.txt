@@ -1,0 +1,9 @@
+Los arreglos son tipos de datos que nos permite guardar varios valores en una misma variables, tambien pueden contener
+diferentes tipos de datos en el mismo arreglo, para recorrerlo o acceder a su contenido parcial usamos un indice[n] que 
+indica la posicion del arreglo a tratar. Este indice inicia en valor [0] para la posicion 1 del arreglo.
+
+En javascript existen funciones para usar con los arreglos como 
+nombredearreglo.push() para agreglar un valor al final del arreglo.
+nombredearreglo.pop() para eliminar un valor al final del arreglo y mostrarlo.
+nombredearreglo.unshift() para agreglar un valor al final del arreglo.
+nombredearreglo.shift() para eliminar un valor al final del arreglo y mostrarlo.
