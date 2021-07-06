@@ -1,0 +1,8 @@
+Los objetos son una estructura de datos muy similares a los arreglos aunque un poco mas flexibles para ciertos casos, 
+podemos tener una variedad de propiedades o metodos registrados en un objeto.
+Las propiedades son los valores o atributos que contiene el objeto.
+Los metodos son propiedades que contienen el resultado de una funcion.
+El bucle (for...in) se utiliza para recorrer el objeto asigando una variable para los valores y el nombre del objeto a 
+recorrer.
+La notacion de puntos de un objeto la podemos usar para acceder a propiedades que existan dentro de un objeto y cuando 
+colocamos corchetes podemos acceder mediante el uso de variables ademas de poder agregar propiedades a ese objeto.
