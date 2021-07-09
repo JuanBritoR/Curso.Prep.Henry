@@ -1,0 +1,3 @@
+ prototype: Es como una plantilla madre de cualquier objeto. Donde tendremos propiedades y metodos que pueden ser heredadas.
+
+_Constructors_ (de Clases): Son las funciones constructoras que usamos para crear clases, no devuelven ningun valor. 
